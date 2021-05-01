@@ -1,0 +1,101 @@
+baseURL = "https://objective-hoover-215ae3.netlify.app/"
+languageCode = "ja-JP"
+title = "Be crew"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Home"
+url     = "/"
+weight  = 1
+# [[menu.main]]
+# name    = "About"
+# url     = "about"
+# weight  = 2
+[[menu.main]]
+name    = "Service"
+url     = "service"
+weight  = 3
+#[[menu.main]]
+#name    = "Gallery"
+#url     = "gallery"
+#weight  = 4
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/becrew_logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "BeCrew"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "https://formspree.io/f/xjvpnggl" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "We'll be your 'crew' and support you who be a"
+description = "モータースポーツに関わるすべての人に。あなたの 'crew' となって活動をサポートします。"
+# button
+btn     = true
+btnText = "Contact Us"
+btnURL  = "/contact"
+
+# flip text
+[[params.banner.flipText]]
+title   = "RACER"
+[[params.banner.flipText]]
+title   = "RALLYIST"
+[[params.banner.flipText]]
+title   = "GYMKHANIAN"
+[[params.banner.flipText]]
+title   = "TIME ATTACKER"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT US"
+content = "モータースポーツで活躍する人にもっと注目してほしいーーそんな想いから「Be crew」は出発しました。レーシングドライバーのセルフプロデュース・チューニングショップのプロモーションなど、Webを活用したトータルサポートは私たちにお任せください。"
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "気になったら連絡してみよう"
+content = "まずはお気軽にご相談ください。「何をすればいいのかわからない」といったご相談も受け付けております。"
+btnText = "Contact Us"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = false
+title   = "Our services"
+subtitle= "あなたの活動に合わせ、最適なプランをご提案"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+

@@ -3,17 +3,17 @@ title   : Our services
 subtitle: >
   あなたの活動に合わせ、最適なプランをご提案。
 item    :
-  - icon  : ion-ios-flask-outline
+  - icon  : far fa-id-card
     title : Webページの作成・運用・コンサルティング
     description : >
       活動・戦績などを一目で理解してもらえる場所を作成します。
 
-  - icon  : ion-ios-lightbulb-outline
+  - icon  : far fa-comments
     title : SNSの開設・運用・コンサルティング
     description : >
       日々の練習風景、整備風景などの活動を投稿し、ファン・スポンサーを獲得します。
 
-  - icon  : ion-ios-americanfootball-outline
+  - icon  : fas fa-chart-line
     title : Web広告の配信・運用・コンサルティング
     description : >
       経営するショップ等のビジネスの宣伝もサポート。販路の拡大に貢献します。

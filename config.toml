@@ -88,14 +88,14 @@ subtitle= "あなたの活動に合わせ、最適なプランをご提案"
 
 # social icon
 [[params.socialIcon]]
-icon = "ion-social-facebook"
+icon = "fab fa-twitter"
 url = "#"
 
 [[params.socialIcon]]
-icon = "ion-social-twitter"
+icon = "fab fa-facebook-f"
 url = "#"
 
 [[params.socialIcon]]
-icon = "ion-social-instagram"
+icon = "fab fa-instagram"
 url = "#"
 

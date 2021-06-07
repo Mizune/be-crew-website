@@ -15,7 +15,7 @@ weight  = 1
 # url     = "about"
 # weight  = 2
 [[menu.main]]
-name    = "Service"
+name    = "Services"
 url     = "service"
 weight  = 3
 #[[menu.main]]
@@ -69,7 +69,7 @@ title   = "TIME ATTACKER"
 [params.about]
 enable  = true
 title   = "ABOUT US"
-content = "モータースポーツで活躍する人にもっと注目してほしいーーそんな想いから「Be crew」は出発しました。レーシングドライバーのセルフプロデュース・チューニングショップのプロモーションなど、Webを活用したトータルサポートは私たちにお任せください。"
+content = "Be Crewはレーシングドライバーやチューニングショップをはじめ、「車」に関連する活動・ビジネスを専門的にお手伝いしています。広報やプロモーション、マーケティングには商材や業界に関する知識・理解が不可欠です。私たちはこれらの業界知識を礎とし、さらにオンライン施策のプロフェッショナルとしてお客様に最適解をご提供します。<br>※車関連以外のご依頼も承ります。まずはご相談ください。"
 image   = "images/about/about.jpg"
 
 # Call to Action

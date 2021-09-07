@@ -15,7 +15,7 @@ weight  = 1
 # url     = "about"
 # weight  = 2
 [[menu.main]]
-name    = "Services"
+name    = "Service"
 url     = "service"
 weight  = 3
 #[[menu.main]]
@@ -47,8 +47,8 @@ contactFormAction = "https://formspree.io/f/xjvpnggl" # contact form works with 
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/slider.jpg"
-heading = "We'll be your 'crew' and support you who be a"
+bgImage = "images/top_img.jpg"
+heading = "We'll be your 'crew' \nAnd support you who be a"
 description = "モータースポーツに関わるすべての人に。あなたの 'crew' となって活動をサポートします。"
 # button
 btn     = true
@@ -69,7 +69,8 @@ title   = "TIME ATTACKER"
 [params.about]
 enable  = true
 title   = "ABOUT US"
-content = "Be Crewはレーシングドライバーやチューニングショップをはじめ、「車」に関連する活動・ビジネスを専門的にお手伝いしています。広報やプロモーション、マーケティングには商材や業界に関する知識・理解が不可欠です。私たちはこれらの業界知識を礎とし、さらにオンライン施策のプロフェッショナルとしてお客様に最適解をご提供します。<br>※車関連以外のご依頼も承ります。まずはご相談ください。"
+content = "モータースポーツに関わるすべての人に。あなたの'Crew'となって活動をサポートします。"
+description = "モータースポーツで活躍する人にもっと注目してほしい －－ <br>そんな思いから「Be Crew」は出発しました。<br>レーシングドライバーのセルフプロデュース・チューニングショップのプロモーションなど、<br>Webを活用したトータルサポートは私たちにお任せください。"
 image   = "images/about/about.jpg"
 
 # Call to Action
@@ -98,4 +99,3 @@ url = "#"
 [[params.socialIcon]]
 icon = "fab fa-instagram"
 url = "#"
-

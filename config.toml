@@ -1,6 +1,6 @@
 baseURL = "https://kind-raman-940952.netlify.app/"
 languageCode = "ja-JP"
-title = "Be crew"
+title = "Be Crew"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -23,13 +23,9 @@ weight  = 3
 #url     = "gallery"
 #weight  = 4
 [[menu.main]]
-name    = "Blog"
-url     = "blog"
-weight  = 5
-[[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 6
+weight  = 5
 
 # Site Params
 [params]
@@ -90,12 +86,12 @@ subtitle= "あなたの活動に合わせ、最適なプランをご提案"
 # social icon
 [[params.socialIcon]]
 icon = "fab fa-twitter"
-url = "#"
+url = "https://twitter.com/becrew_biz"
 
 [[params.socialIcon]]
 icon = "fab fa-facebook-f"
-url = "#"
+url = "https://www.facebook.com/BeCrew-104580445400020/"
 
 [[params.socialIcon]]
 icon = "fab fa-instagram"
-url = "#"
+url = "https://www.instagram.com/becrew.biz/"

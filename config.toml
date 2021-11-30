@@ -23,9 +23,13 @@ weight  = 3
 #url     = "gallery"
 #weight  = 4
 [[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 5
+weight  = 6
 
 # Site Params
 [params]
@@ -86,12 +90,12 @@ subtitle= "あなたの活動に合わせ、最適なプランをご提案"
 # social icon
 [[params.socialIcon]]
 icon = "fab fa-twitter"
-url = "https://twitter.com/becrew_biz"
+url = "#"
 
 [[params.socialIcon]]
 icon = "fab fa-facebook-f"
-url = "https://www.facebook.com/BeCrew-104580445400020/"
+url = "#"
 
 [[params.socialIcon]]
 icon = "fab fa-instagram"
-url = "https://www.instagram.com/becrew.biz/"
+url = "#"

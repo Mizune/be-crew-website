@@ -38,7 +38,7 @@ author = "BeCrew"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
-contactFormAction = "https://formspree.io/f/xjvpnggl" # contact form works with https://formspree.io
+contactFormAction = "/complete"
 
 # Banner Section
 [params.banner]

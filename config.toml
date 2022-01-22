@@ -1,4 +1,4 @@
-baseURL = "http://becrew.biz"
+baseURL = "https://becrew.biz"
 languageCode = "ja-JP"
 title = "Be Crew"
 theme = "timer-hugo"
